@@ -1,0 +1,8 @@
+C:\Training(.NET)\C#(sharp)\ConsoleBankSystem\ConsoleBankSystem\obj\Debug\ConsoleBankSystem.csproj.AssemblyReference.cache
+C:\Training(.NET)\C#(sharp)\ConsoleBankSystem\ConsoleBankSystem\obj\Debug\ConsoleBankSystem.csproj.SuggestedBindingRedirects.cache
+C:\Training(.NET)\C#(sharp)\ConsoleBankSystem\ConsoleBankSystem\obj\Debug\ConsoleBankSystem.csproj.CoreCompileInputs.cache
+C:\Training(.NET)\C#(sharp)\ConsoleBankSystem\ConsoleBankSystem\bin\Debug\ConsoleBankSystem.exe.config
+C:\Training(.NET)\C#(sharp)\ConsoleBankSystem\ConsoleBankSystem\bin\Debug\ConsoleBankSystem.exe
+C:\Training(.NET)\C#(sharp)\ConsoleBankSystem\ConsoleBankSystem\bin\Debug\ConsoleBankSystem.pdb
+C:\Training(.NET)\C#(sharp)\ConsoleBankSystem\ConsoleBankSystem\obj\Debug\ConsoleBankSystem.exe
+C:\Training(.NET)\C#(sharp)\ConsoleBankSystem\ConsoleBankSystem\obj\Debug\ConsoleBankSystem.pdb
