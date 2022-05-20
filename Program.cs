@@ -1,18 +1,32 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FilleReadingDemo
+namespace BillingAndInventorySystem
 {
-    public class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            FileHandingRead fileHandingRead = new FileHandingRead();
-            fileHandingRead.ReadFile();
+            UserModule userModule = new UserModule();
+            userModule.WriteFile();
+            Console.WriteLine("user module completed..");
+
+
+            CategoryModule categoryModule = new CategoryModule();
+            categoryModule.WriteFile();
+            Console.WriteLine("Cateogry module completed");
+
+
+            ProductModule productModule = new ProductModule();
+            productModule.WriteFile();
+            Console.WriteLine("Product module completed");
+
+            ProductAndSalesModule productAndSalesModule = new ProductAndSalesModule();
+            productAndSalesModule.WrieFile();
+            Console.WriteLine("Product and sales module completed");
 
         }
     }
