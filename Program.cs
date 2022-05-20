@@ -1,34 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleBankSystem
+namespace FilleReadingDemo
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            CurrentAccount obj1 = new CurrentAccount();
-            obj1.GetCuurentAccountDetails();
-            decimal accountBalance = obj1.AccountBalance();
-            string ATM = obj1.Atm();
-
-            Console.WriteLine("AccountBalance: " + accountBalance);
-            Console.WriteLine("ATM status: " + ATM);
-
-            CurrentAccount obj2 = new CurrentAccount();
-            obj2.GetCuurentAccountDetails();
-            decimal Balance = obj2.AccountBalance();
-            string atm = obj2.Atm();
-
-            Console.WriteLine("AccountBalance: " + Balance);
-            Console.WriteLine("ATM status: " + atm);
-
-            Console.ReadLine();
-
-
+            FileHandingRead fileHandingRead = new FileHandingRead();
+            fileHandingRead.ReadFile();
 
         }
     }
