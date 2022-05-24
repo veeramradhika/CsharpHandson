@@ -4,29 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BillingAndInventorySystem
+namespace ArraysHandsOn
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            UserModule userModule = new UserModule();
-            userModule.WriteFile();
-            Console.WriteLine("user module completed..");
+            //Array1 array1 = new Array1();
+            //array1.numbers();
 
+            //Array2 array2 = new Array2();
+            //array2.names();
 
-            CategoryModule categoryModule = new CategoryModule();
-            categoryModule.WriteFile();
-            Console.WriteLine("Cateogry module completed");
+            //Array3 array3 = new Array3();
+            //array3.data();
 
-
-            ProductModule productModule = new ProductModule();
-            productModule.WriteFile();
-            Console.WriteLine("Product module completed");
-
-            ProductAndSalesModule productAndSalesModule = new ProductAndSalesModule();
-            productAndSalesModule.WrieFile();
-            Console.WriteLine("Product and sales module completed");
+            IceCreameFlavors iceCreameFlavors = new IceCreameFlavors();
+            iceCreameFlavors.flavor();
 
         }
     }
