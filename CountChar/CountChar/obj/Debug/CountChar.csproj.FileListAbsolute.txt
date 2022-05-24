@@ -1,0 +1,8 @@
+C:\Training(.NET)\C#(sharp)\CountChar\CountChar\obj\Debug\CountChar.csproj.AssemblyReference.cache
+C:\Training(.NET)\C#(sharp)\CountChar\CountChar\obj\Debug\CountChar.csproj.SuggestedBindingRedirects.cache
+C:\Training(.NET)\C#(sharp)\CountChar\CountChar\obj\Debug\CountChar.csproj.CoreCompileInputs.cache
+C:\Training(.NET)\C#(sharp)\CountChar\CountChar\bin\Debug\CountChar.exe.config
+C:\Training(.NET)\C#(sharp)\CountChar\CountChar\bin\Debug\CountChar.exe
+C:\Training(.NET)\C#(sharp)\CountChar\CountChar\bin\Debug\CountChar.pdb
+C:\Training(.NET)\C#(sharp)\CountChar\CountChar\obj\Debug\CountChar.exe
+C:\Training(.NET)\C#(sharp)\CountChar\CountChar\obj\Debug\CountChar.pdb
