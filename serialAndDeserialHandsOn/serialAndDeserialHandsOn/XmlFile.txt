@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfEBBill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EBBill>
+    <CustomerId>1</CustomerId>
+    <Name>Radhika</Name>
+    <NoOfUnits>4</NoOfUnits>
+    <UnitPerCost>7</UnitPerCost>
+    <Total>3</Total>
+  </EBBill>
+  <EBBill>
+    <CustomerId>2</CustomerId>
+    <Name>Lavanya</Name>
+    <NoOfUnits>5</NoOfUnits>
+    <UnitPerCost>7</UnitPerCost>
+    <Total>3</Total>
+  </EBBill>
+  <EBBill>
+    <CustomerId>2</CustomerId>
+    <Name>Lavanya</Name>
+    <NoOfUnits>5</NoOfUnits>
+    <UnitPerCost>7</UnitPerCost>
+    <Total>3</Total>
+  </EBBill>
+</ArrayOfEBBill>

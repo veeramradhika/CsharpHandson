@@ -1,0 +1,11 @@
+C:\Training(.NET)\C#(sharp)\serialAndDeserialHandsOn\serialAndDeserialHandsOn\bin\Debug\serialAndDeserialHandsOn.exe.config
+C:\Training(.NET)\C#(sharp)\serialAndDeserialHandsOn\serialAndDeserialHandsOn\bin\Debug\serialAndDeserialHandsOn.exe
+C:\Training(.NET)\C#(sharp)\serialAndDeserialHandsOn\serialAndDeserialHandsOn\bin\Debug\serialAndDeserialHandsOn.pdb
+C:\Training(.NET)\C#(sharp)\serialAndDeserialHandsOn\serialAndDeserialHandsOn\obj\Debug\serialAndDeserialHandsOn.csproj.AssemblyReference.cache
+C:\Training(.NET)\C#(sharp)\serialAndDeserialHandsOn\serialAndDeserialHandsOn\obj\Debug\serialAndDeserialHandsOn.csproj.SuggestedBindingRedirects.cache
+C:\Training(.NET)\C#(sharp)\serialAndDeserialHandsOn\serialAndDeserialHandsOn\obj\Debug\serialAndDeserialHandsOn.csproj.CoreCompileInputs.cache
+C:\Training(.NET)\C#(sharp)\serialAndDeserialHandsOn\serialAndDeserialHandsOn\obj\Debug\serialAndDeserialHandsOn.exe
+C:\Training(.NET)\C#(sharp)\serialAndDeserialHandsOn\serialAndDeserialHandsOn\obj\Debug\serialAndDeserialHandsOn.pdb
+C:\Training(.NET)\C#(sharp)\serialAndDeserialHandsOn\serialAndDeserialHandsOn\bin\Debug\Newtonsoft.Json.dll
+C:\Training(.NET)\C#(sharp)\serialAndDeserialHandsOn\serialAndDeserialHandsOn\bin\Debug\Newtonsoft.Json.xml
+C:\Training(.NET)\C#(sharp)\serialAndDeserialHandsOn\serialAndDeserialHandsOn\obj\Debug\serialAndDeserialHandsOn.csproj.CopyComplete
