@@ -1,0 +1,8 @@
+C:\Training(.NET)\C#(sharp)\AdoDotNetHandsOn\AdoDotNetHandsOn\bin\Debug\AdoDotNetHandsOn.exe.config
+C:\Training(.NET)\C#(sharp)\AdoDotNetHandsOn\AdoDotNetHandsOn\bin\Debug\AdoDotNetHandsOn.exe
+C:\Training(.NET)\C#(sharp)\AdoDotNetHandsOn\AdoDotNetHandsOn\bin\Debug\AdoDotNetHandsOn.pdb
+C:\Training(.NET)\C#(sharp)\AdoDotNetHandsOn\AdoDotNetHandsOn\obj\Debug\AdoDotNetHandsOn.csproj.AssemblyReference.cache
+C:\Training(.NET)\C#(sharp)\AdoDotNetHandsOn\AdoDotNetHandsOn\obj\Debug\AdoDotNetHandsOn.csproj.SuggestedBindingRedirects.cache
+C:\Training(.NET)\C#(sharp)\AdoDotNetHandsOn\AdoDotNetHandsOn\obj\Debug\AdoDotNetHandsOn.csproj.CoreCompileInputs.cache
+C:\Training(.NET)\C#(sharp)\AdoDotNetHandsOn\AdoDotNetHandsOn\obj\Debug\AdoDotNetHandsOn.exe
+C:\Training(.NET)\C#(sharp)\AdoDotNetHandsOn\AdoDotNetHandsOn\obj\Debug\AdoDotNetHandsOn.pdb
