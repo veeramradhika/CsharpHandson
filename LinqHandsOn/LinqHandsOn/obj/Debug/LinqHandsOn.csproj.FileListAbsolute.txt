@@ -1,0 +1,8 @@
+C:\Users\Radhika\OneDrive\Desktop\c sharp\LinqHandsOn\LinqHandsOn\bin\Debug\LinqHandsOn.exe.config
+C:\Users\Radhika\OneDrive\Desktop\c sharp\LinqHandsOn\LinqHandsOn\bin\Debug\LinqHandsOn.exe
+C:\Users\Radhika\OneDrive\Desktop\c sharp\LinqHandsOn\LinqHandsOn\bin\Debug\LinqHandsOn.pdb
+C:\Users\Radhika\OneDrive\Desktop\c sharp\LinqHandsOn\LinqHandsOn\obj\Debug\LinqHandsOn.csproj.AssemblyReference.cache
+C:\Users\Radhika\OneDrive\Desktop\c sharp\LinqHandsOn\LinqHandsOn\obj\Debug\LinqHandsOn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Radhika\OneDrive\Desktop\c sharp\LinqHandsOn\LinqHandsOn\obj\Debug\LinqHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Radhika\OneDrive\Desktop\c sharp\LinqHandsOn\LinqHandsOn\obj\Debug\LinqHandsOn.exe
+C:\Users\Radhika\OneDrive\Desktop\c sharp\LinqHandsOn\LinqHandsOn\obj\Debug\LinqHandsOn.pdb
